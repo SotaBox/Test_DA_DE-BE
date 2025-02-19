@@ -1,4 +1,4 @@
-# DA position skill test. EDA and XGBoost for Equipment Failure Prediction
+# AI Engineer position skill test. EDA and XGBoost for Equipment Failure Prediction
 ## Part 1: Exploratory Data Analysis (EDA)
     1. Load the dataset and display basic information (rows, columns, data types).
     2. Show the distribution of the target variable (failure_last).
